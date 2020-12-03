@@ -1,0 +1,11 @@
+#+TITLE: Advent of Code 2020, ft. Haskell
+#+Author: Nicholas Miklaucic
+
+This is where I'm putting my AoC 2020 solutions. I'm trying to level up my
+functional programming and abstract math skills, so I'll be using Haskell for
+all of the problems.
+
+Caveat to anyone looking at the solutions: I am a Haskell programmer in the same
+way [[https://simpsons.fandom.com/wiki/Nick_Riviera][Dr. Nick from The Simpsons]] is a doctor: in the most generous possible sense
+of the term. (Perhaps by the end I'll be better!) I'm sure there's plenty of
+non-idiomatic code here or more elegant alternative solutions.
