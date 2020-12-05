@@ -4,7 +4,8 @@
 tmp/
 
 dist
-*/dist-*
+dist-*
+dist-*/
 cabal-dev
 *.o
 *.hi
