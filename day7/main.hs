@@ -92,6 +92,7 @@ main = do
   print part1
   putStr "Part 2: "
   print part2
-  -- let adj = graphToAdj graph
-  -- print (powersList adj)
-  -- print (length $ powersList adj)
+  let adj = graphToAdj graph
+  writeFile "adjacency" $ show $ toLists adj
+  let i = fromJust (elemIndex "shiny gold" (nodes graph)) + 1
+  print i
